@@ -1,0 +1,6 @@
+pdfplumber
+python-docx
+sentence-transformers
+numpy
+torch
+ctransformers
