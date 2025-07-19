@@ -1,0 +1,24 @@
+Job Title: AI/ML Software Engineer (Full Stack + Infra)
+
+Company Overview:
+We are a fast-scaling AI startup building agentic systems that help developers ship products faster with intelligent automation, LLMs, and cloud-based tooling.
+
+Responsibilities:
+- Design and implement LLM-powered agents using frameworks like LangChain or LangGraph
+- Build scalable backend systems with Python, FastAPI, and Node.js
+- Architect infrastructure on AWS using ECS, EC2, RDS, and other services
+- Fine-tune and integrate models like TTS, Diffusers, and Transformers
+- Work with real-time data processing, vectorstores, and memory optimization
+- Build and scale web apps using React, Next.js, and Typescript
+- Apply statistical modeling for user behavior and security features
+- Collaborate with a small, elite team to ship MVPs rapidly
+
+Preferred Qualifications:
+- Experience building agentic AI systems or LLM-based automation
+- Proficiency in React, Next.js, Node.js, Python
+- Strong AWS infra knowledge (CloudFormation, ElastiCache, RDS)
+- Solid understanding of prompt engineering and LLM APIs
+- Prior experience in startup or hackathon-style environments
+- Deep curiosity for AI/ML and privacy-preserving AI solutions
+
+Location: Remote or Vancouver preferred
