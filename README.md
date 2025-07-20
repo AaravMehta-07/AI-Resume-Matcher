@@ -5,6 +5,10 @@ It matches multiple resumes against a single job description, scores them with a
 
 ---
 
+[▶️ Watch Demo on YouTube](https://youtu.be/5H88hSNtpvM)
+
+---
+
 ## 🚀 Features
 
 - Takes unlimited resumes from the `data/resumes` folder  
@@ -30,10 +34,6 @@ AI-Resume-Matcher/
 ├── requirements.txt  
 ├── LICENSE  
 └── README.md
-
----
-
-[▶️ Watch Demo on YouTube](https://youtu.be/5H88hSNtpvM)
 
 ---
 
