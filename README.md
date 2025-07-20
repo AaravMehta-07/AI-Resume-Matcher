@@ -33,6 +33,10 @@ AI-Resume-Matcher/
 
 ---
 
+👉 [Watch Demo](./demo_ai_resume_matcher.mp4)
+
+---
+
 ## 🧠 Model Setup (Required)
 
 GitHub doesn’t allow files larger than 100MB, so you must manually download the LLM model or use the BAT script provided.
