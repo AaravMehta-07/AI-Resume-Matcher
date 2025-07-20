@@ -33,7 +33,7 @@ AI-Resume-Matcher/
 
 ---
 
-👉 [Watch Demo](./demo_ai_resume_matcher.mp4)
+[▶️ Watch Demo on YouTube](https://youtu.be/5H88hSNtpvM)
 
 ---
 
